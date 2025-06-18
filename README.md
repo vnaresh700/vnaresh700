@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Naresh Vavilala
 
-<!--
-**vnaresh700/vnaresh700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Senior Java Backend Developer with 10+ Years of Experience  
+🚀 I specialize in building scalable, secure, and production-ready applications using Java, Spring Boot, and Microservices architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages**: Java, Kotlin, SQL, JavaScript
+- **Backend**: Spring Boot, Spring Cloud, JPA, Hibernate, REST APIs, Microservices
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
+- **Cloud**: Azure
+- **Tools**: IntelliJ, Postman, Maven, Gradle, Git
+
+---
+
+## 📘 Blogs & Talks
+
+- ✍️ [Medium: Java Microservices Tips](https://medium.com/@vnaresh700)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vnaresh700&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/naresh-vavilala-298737276)
+
+---
