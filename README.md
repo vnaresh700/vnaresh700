@@ -21,12 +21,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vnaresh700&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/naresh-vavilala-298737276)
